@@ -1,5 +1,3 @@
----
-
 ### 🚀 Accès et Ressources  
 
 - **Présentation** : [PowerPoint](https://docs.google.com/presentation/d/14e_twIQS-2SKcZEQ-ROKGhTkDDycoEc3QtUY7cwCmz4/)  
