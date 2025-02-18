@@ -1,5 +1,3 @@
-## Alliance CAN
-
 ---
 
 ### 🚀 Accès et Ressources  
