@@ -51,7 +51,7 @@
 2. **Stockage (max 40 To toutes grappes confondues)**  
    - **Home (50 Go, 500k fichiers)** : Code/scripts  
    - **Scratch (20 To, 1M fichiers)** : Temporaire (effacé après 2 mois)  
-   - **Project (1 To, 500k fichiers)** : Données volumineuses  
+   - **Project (1 To, 500k fichiers)** : Données volumineuses/partagées
    - **Nearline (1 To, 5000 fichiers)** : Archives  
    - **$SLURM_TMPDIR (960 Go)** : Stockage rapide (effacé après calcul)  
 
