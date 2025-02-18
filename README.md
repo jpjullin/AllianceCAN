@@ -169,9 +169,8 @@ seff <jobid>
 
 ### ❗ En cas de problème  
 
-🔍 **Dépannage rapide** :  
-✅ Vérifier les fichiers de sortie  
-✅ Consulter le [Wiki](https://docs.alliancecan.ca/wiki/Technical_documentation/fr)
-✅ Contacter le support : 📧 **support@tech.alliancecan.ca**  
+🔍 Vérifier les fichiers de sortie  
+🔍 Consulter le [Wiki](https://docs.alliancecan.ca/wiki/Technical_documentation/fr)
+🔍 Contacter le support : 📧 **support@tech.alliancecan.ca**  
 
 ---
