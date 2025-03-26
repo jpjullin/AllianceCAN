@@ -6,6 +6,12 @@
 
 ---
 
+### 📊 Optimisation des ressources
+
+- **Optimisation CPU/GPU** : [Optimisation des ressources](Optimisation des ressources.md)
+
+---
+
 ### 🖥️ Clusters et Configuration  
 
 - **Chaque nœud** : Linux | **64 cœurs max** | **4 To RAM max** | **1-28 jours** | **8 GPU max**  
