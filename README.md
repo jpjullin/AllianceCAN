@@ -8,7 +8,7 @@
 
 ### 📊 Optimisation des ressources
 
-- **Optimisation CPU/GPU** : [Optimisation des ressources](Optimisation des ressources.md)
+- **Optimisation CPU/GPU** : [Optimisation des ressources](Optimisation%20des%20ressources.md)
 
 ---
 
